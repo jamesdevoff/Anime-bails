@@ -1,13 +1,13 @@
 {
-    "name": "lyytzyy/bail",
+    "name": "lyy393/bail",
     "version": "1.7.3",
     "description": "Lyy | Ai",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/lyytzyy/bail",
+    "homepage": "https://github.com/lyy393/bail",
     "repository": {
-        "url": "https://github.com/lyytzyy/bail"
+        "url": "https://github.com/lyy393/bail"
     },
     "license": "MIT",
     "author": "Lyy | Ai",
