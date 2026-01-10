@@ -129,7 +129,7 @@ await client.relayMessage(m.chat, {
     buttons: [
       {
         name: "cta_url",
-        buttonParamsJson: "{\"display_text\":\"kayzen\",\"url\":\"https://t.me/kayzennotdev\"}"
+        buttonParamsJson: "{\"display_text\":\"lyy\",\"url\":\"https://t.me/kagachiii\"}"
       }
     ],
     priceAmount1000: 72502,
@@ -139,7 +139,7 @@ await client.relayMessage(m.chat, {
 ```
 ## Thanks For Support
 ```javascript
-const kayzen == "my self"
+const lyy == "my self"
 const Gupong == "source my fork"
 const kiur == "source baileys ( maybe )"
 ```
